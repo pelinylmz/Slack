@@ -8,6 +8,6 @@ public class Login2 {
 
         //this line is written from Intellij
 
-        int y =5;
+        int z =5;
     }
 }
