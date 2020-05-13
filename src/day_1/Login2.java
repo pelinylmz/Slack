@@ -6,8 +6,12 @@ public class Login2 {
         double y = 10.5;
         
 
+
         //this line is written from Intellij
 
         int z =5;
+
+int k =5;
+
     }
 }
