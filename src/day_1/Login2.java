@@ -5,6 +5,6 @@ public class Login2 {
         int x = 5;
         double y = 10.5;
         
-
+int z =5;
     }
 }
